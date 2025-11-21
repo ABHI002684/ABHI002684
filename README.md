@@ -12,7 +12,7 @@ Currently, I’m exploring how **LLMs**, **LangChain**, and **RAG pipelines** ca
 - ⚙️ **Backend:** Node.js, Express.js, RESTful APIs, MVC Architecture  
 - 💻 **Frontend:** React.js, Tailwind CSS, HTML, CSS  
 - 🗄️ **Database:** MongoDB, MySQL  
-- ☁️ **Deployment:** Render, Vercel, Docker (basic)  
+- ☁️ **Deployment:** Render, Vercel, Netlify, Docker (basic)  
 - 🧩 **CS Core:** DSA, OOPs, DBMS, OS  
 
 ---
